@@ -1,5 +1,5 @@
 # musicdot_2
-MusicDot\_2
+musicDot\_2
 ========
 
 Bem-vindo à MusicDot, seu portal de cursos de música  
